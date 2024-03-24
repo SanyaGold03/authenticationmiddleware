@@ -1,5 +1,5 @@
 {
-  "name": "authenticationmiddleware", 
+  "name": "authenticationmiddleware12", 
   "version": "1.0.0", 
   "description": "by golds", 
   "main": "./src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SanyaGold03/authenticationmiddleware.git" 
+    "url": "" 
   },
   "keywords": [ 
     "", 
