@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/SanyaGold03/authenticationmiddleware.git" 
   },
   "keywords": [ 
     "", 
     "",
     ""
   ],
-  "author": "", 
+  "author": "sasha", 
   "license": "MIT"
 }
