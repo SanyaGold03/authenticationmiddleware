@@ -1,20 +1,23 @@
 {
-  "name": "authenticationmiddleware12", 
-  "version": "1.0.0", 
-  "description": "by golds", 
+  "name": "authenticationmiddleware12",
+  "version": "1.0.1",
+  "description": "by golds",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/SanyaGold03/authenticationmiddleware12.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "sasha", 
-  "license": "MIT"
+  "author": "sasha",
+  "license": "MIT",
+  "dependencies": {
+    "taskscheduler1": "^1.0.1"
+  }
 }
